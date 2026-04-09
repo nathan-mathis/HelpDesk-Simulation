@@ -82,7 +82,7 @@ This framework mirrors how enterprise environments expect technicians to documen
 
 ## What's Next
 
-- [ ] ADHDQ_2 - A second batch of 200 tickets with increased complexity and multi-step escalations
+- [ ] HDTQ_2 - A second batch of 200 tickets with increased complexity and multi-step escalations
 - [ ] Metrics dashboard - Resolution time averages, category breakdowns, SLA compliance tracking
 - [ ] Integration with Active Directory lab scenarios (cross-reference ticket resolutions with AD actions)
 - [ ] ServiceNow migration - Rebuild the simulation inside a ServiceNow Personal Developer Instance
