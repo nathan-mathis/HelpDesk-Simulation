@@ -1,4 +1,4 @@
-# Help Desk Simulation - Help Desk Ticket Queue
+# Help Desk Simulation - Cycle_1
 
 **A fully functional Excel-based help desk simulation with 200 tickets, VBA automation, and a structured documentation framework - built to practice and demonstrate real-world ticket handling at scale.**
 
@@ -14,9 +14,12 @@ Certifications prove you studied. Labs prove you can build. But neither one prov
 
 ## What It Does
 
-Help Desk Ticket Queue.xlsm is a macro-enabled Excel workbook that simulates a realistic help desk queue. Each ticket represents a scenario pulled from common enterprise support issues - hardware failures, software installs, access requests, network problems, onboarding, and more.
+Cycle_1.xlsm is a macro-enabled Excel workbook that simulates a realistic help desk queue. Each ticket represents a scenario pulled from common enterprise support issues - hardware failures, software installs, access requests, network problems, onboarding, and more.
 
 The workbook isn't just a spreadsheet with data in it. It's an interactive tool with automation built in to mimic the workflow of a real ticketing system.
+
+![Ticket Queue Overview](images/Ticket_Queue.png)
+*Main queue view with conditional formatting showing priority and status at a glance*
 
 ---
 
@@ -55,6 +58,33 @@ Every ticket is documented using the **DAS (Discover, Action, State)** method - 
 
 This framework mirrors how enterprise environments expect technicians to document their work - clear enough for another tech to pick up the ticket without a conversation.
 
+![Completing Tickets](images/Completing_Tickets.png)
+*Tickets in progress with timestamps, expected actions, and detailed DAS notes*
+
+---
+
+## Working the Queue
+
+Tickets are worked through methodically - opened, documented, resolved, and timestamped. The completed queue shows the full lifecycle of each ticket from intake to resolution.
+
+![Complete Queue](images/Complete_Queue.png)
+*Completed tickets with full documentation, timestamps, and technician notes*
+
+---
+
+## Metrics Dashboard
+
+The workbook includes a built-in metrics tab tracking performance across the simulation:
+
+- Tickets completed per day
+- Completion breakdown by category and priority
+- Average time per ticket (minutes)
+- Fastest and slowest ticket resolution times
+- Overall completion rate
+
+![Metrics Dashboard](images/Metrics.png)
+*Day 1 metrics: 20 tickets completed, 5.8 min average, 100% completion rate*
+
 ---
 
 ## Key Skills Demonstrated
@@ -63,6 +93,7 @@ This framework mirrors how enterprise environments expect technicians to documen
 - Structured incident documentation (DAS framework)
 - Excel VBA macro development
 - Conditional formatting for queue management
+- Performance metrics and SLA tracking
 - Realistic simulation of enterprise support volume
 - IMACD (Install, Move, Add, Change, Dispose) workflows
 - Escalation judgment and routing decisions
@@ -71,7 +102,7 @@ This framework mirrors how enterprise environments expect technicians to documen
 
 ## How to Use
 
-1. Download [Help Desk Ticket Queue.xlsm](https://docs.google.com/spreadsheets/d/1rHcSwhUA4yeQcNQ58oI5g1eCBBK9giYaN9z5AcMr01Q/edit?usp=sharing)
+1. Download `Cycle_1.xlsm`
 2. Enable macros when prompted (required for timestamps and automation)
 3. Work through tickets as you would a real queue - open, document with DAS notes, resolve or escalate
 4. Use it as a practice tool or a reference for your own documentation style
@@ -82,8 +113,7 @@ This framework mirrors how enterprise environments expect technicians to documen
 
 ## What's Next
 
-- [ ] HDTQ_2 - A second batch of 200 tickets with increased complexity and multi-step escalations
-- [ ] Metrics dashboard - Resolution time averages, category breakdowns, SLA compliance tracking
+- [ ] Cycle_2 - A second batch of 200 tickets with increased complexity and multi-step escalations
 - [ ] Integration with Active Directory lab scenarios (cross-reference ticket resolutions with AD actions)
 - [ ] ServiceNow migration - Rebuild the simulation inside a ServiceNow Personal Developer Instance
 
