@@ -1,8 +1,8 @@
-# Help Desk Simulation - Cycle_1
+# Help Desk Simulation - Help Desk Ticket Queue
 
 **A fully functional Excel-based help desk simulation with 200 tickets, VBA automation, and a structured documentation framework - built to practice and demonstrate real-world ticket handling at scale.**
 
-Built by [Nathan Mathis](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) | IT Professional | 14+ Years Enterprise IT Experience
+Built by [Nathan Mathis](https://www.linkedin.com/in/n-mathis/) | IT Professional | 14+ Years Enterprise IT Experience
 
 ---
 
@@ -14,7 +14,7 @@ Certifications prove you studied. Labs prove you can build. But neither one prov
 
 ## What It Does
 
-Cycle_1.xlsm is a macro-enabled Excel workbook that simulates a realistic help desk queue. Each ticket represents a scenario pulled from common enterprise support issues - hardware failures, software installs, access requests, network problems, onboarding, and more.
+Help Desk Ticket Queue.xlsm is a macro-enabled Excel workbook that simulates a realistic help desk queue. Each ticket represents a scenario pulled from common enterprise support issues - hardware failures, software installs, access requests, network problems, onboarding, and more.
 
 The workbook isn't just a spreadsheet with data in it. It's an interactive tool with automation built in to mimic the workflow of a real ticketing system.
 
@@ -71,7 +71,7 @@ This framework mirrors how enterprise environments expect technicians to documen
 
 ## How to Use
 
-1. Download `Cycle_1.xlsm`
+1. Download `[Help Desk Ticket Queue.xlsm](https://docs.google.com/spreadsheets/d/1rHcSwhUA4yeQcNQ58oI5g1eCBBK9giYaN9z5AcMr01Q/edit?usp=sharing)`
 2. Enable macros when prompted (required for timestamps and automation)
 3. Work through tickets as you would a real queue - open, document with DAS notes, resolve or escalate
 4. Use it as a practice tool or a reference for your own documentation style
@@ -82,7 +82,7 @@ This framework mirrors how enterprise environments expect technicians to documen
 
 ## What's Next
 
-- [ ] Cycle_2 - A second batch of 200 tickets with increased complexity and multi-step escalations
+- [ ] ADHDQ_2 - A second batch of 200 tickets with increased complexity and multi-step escalations
 - [ ] Metrics dashboard - Resolution time averages, category breakdowns, SLA compliance tracking
 - [ ] Integration with Active Directory lab scenarios (cross-reference ticket resolutions with AD actions)
 - [ ] ServiceNow migration - Rebuild the simulation inside a ServiceNow Personal Developer Instance
