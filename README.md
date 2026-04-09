@@ -71,7 +71,7 @@ This framework mirrors how enterprise environments expect technicians to documen
 
 ## How to Use
 
-1. Download `[Help Desk Ticket Queue.xlsm](https://docs.google.com/spreadsheets/d/1rHcSwhUA4yeQcNQ58oI5g1eCBBK9giYaN9z5AcMr01Q/edit?usp=sharing)`
+1. Download [Help Desk Ticket Queue.xlsm](https://docs.google.com/spreadsheets/d/1rHcSwhUA4yeQcNQ58oI5g1eCBBK9giYaN9z5AcMr01Q/edit?usp=sharing)
 2. Enable macros when prompted (required for timestamps and automation)
 3. Work through tickets as you would a real queue - open, document with DAS notes, resolve or escalate
 4. Use it as a practice tool or a reference for your own documentation style
