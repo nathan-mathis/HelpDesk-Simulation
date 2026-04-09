@@ -93,5 +93,5 @@ This framework mirrors how enterprise environments expect technicians to documen
 
 IT professional with 14+ years of enterprise experience in IMACD service delivery at Dell Technologies supporting Boeing facilities. CompTIA A+ certified, currently pursuing Network+ (N10-009), with a long-term career path toward Digital Forensics and Incident Response (DFIR).
 
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+- [LinkedIn](https://www.linkedin.com/in/n-mathis/)
 - [Resume available upon request]
