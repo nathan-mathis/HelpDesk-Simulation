@@ -1,4 +1,4 @@
-# Help Desk Simulation - Cycle_1
+# Help Desk Simulation - Help Desk Ticket Queue
 
 **A fully functional Excel-based help desk simulation with 200 tickets, VBA automation, and a structured documentation framework - built to practice and demonstrate real-world ticket handling at scale.**
 
@@ -14,7 +14,7 @@ Certifications prove you studied. Labs prove you can build. But neither one prov
 
 ## What It Does
 
-Cycle_1.xlsm is a macro-enabled Excel workbook that simulates a realistic help desk queue. Each ticket represents a scenario pulled from common enterprise support issues - hardware failures, software installs, access requests, network problems, onboarding, and more.
+Help Desk Ticket Queue.xlsm is a macro-enabled Excel workbook that simulates a realistic help desk queue. Each ticket represents a scenario pulled from common enterprise support issues - hardware failures, software installs, access requests, network problems, onboarding, and more.
 
 The workbook isn't just a spreadsheet with data in it. It's an interactive tool with automation built in to mimic the workflow of a real ticketing system.
 
@@ -102,7 +102,7 @@ The workbook includes a built-in metrics tab tracking performance across the sim
 
 ## How to Use
 
-1. Download `Cycle_1.xlsm`
+1. Download [Help Desk Ticket Queue](https://docs.google.com/spreadsheets/d/1rHcSwhUA4yeQcNQ58oI5g1eCBBK9giYaN9z5AcMr01Q/edit?usp=sharing)
 2. Enable macros when prompted (required for timestamps and automation)
 3. Work through tickets as you would a real queue - open, document with DAS notes, resolve or escalate
 4. Use it as a practice tool or a reference for your own documentation style
